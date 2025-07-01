@@ -17,7 +17,7 @@ Para este desafio, você precisará usar seus conhecimentos adquiridos no módul
 Neste Laboratório foi proposto um desafio para construir um sistema de hospedagem, com o intuito de ser usado para realizar uma reserva em um hotel.
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/gdmacedo/Glener-Talk/main/developer-MacedoGDiniz.jpg" alt="Macedo, Glener Diniz">
+  <img  src="https://raw.githubusercontent.com/gdmacedo/Hotel/refs/heads/main/0002.jpg" alt="Sistema de Hospedagem de um Hotel">
 </p>
 
 ## Contexto
