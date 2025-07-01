@@ -1,6 +1,14 @@
 # Hotel
 ## Sistema de Hospedagem de um Hotel
 
+### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
+### Data.: 01 de julho de 2025.
+
+### Orientador:
+Leonardo Buta - Full-Stack
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gdmacedo/Glener-Talk/main/developer-MacedoGDiniz.jpg" alt="Macedo, Glener Diniz">
+</p>
 ![Sistema de Hospedagem de um Hotel](0002.jpg)
 
 ## Desafio de projeto
