@@ -9,6 +9,7 @@ Leonardo Buta - Full-Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/gdmacedo/Glener-Talk/main/developer-MacedoGDiniz.jpg" alt="Macedo, Glener Diniz">
 </p>
+
 ![Sistema de Hospedagem de um Hotel](0002.jpg)
 
 ## Desafio de projeto
