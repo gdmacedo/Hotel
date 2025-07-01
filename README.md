@@ -1,14 +1,7 @@
 # Hotel
 ## Sistema de Hospedagem de um Hotel
 
-### Author: Macedo, Glener Diniz - Desenvolvedor Full Stack
-### Data.: 01 de julho de 2025.
-
-### Orientador:
-Leonardo Buta - Full-Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gdmacedo/Glener-Talk/main/developer-MacedoGDiniz.jpg" alt="Macedo, Glener Diniz">
-</p>
+![Sistema de Hospedagem de um Hotel](0002.jpg)
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de explorando a linguagem C#.
@@ -16,9 +9,6 @@ Para este desafio, você precisará usar seus conhecimentos adquiridos no módul
 ### DESCRIÇÃO:
 Neste Laboratório foi proposto um desafio para construir um sistema de hospedagem, com o intuito de ser usado para realizar uma reserva em um hotel.
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/gdmacedo/Hotel/refs/heads/main/0002.jpg" alt="Sistema de Hospedagem de um Hotel">
-</p>
 
 ## Contexto
 Fui contratado para construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel. Precisei usar a classe Pessoa, que representa o hóspede, a classe Suíte, e a classe Reserva, que fará um relacionamento entre ambos.
